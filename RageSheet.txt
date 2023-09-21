@@ -1,0 +1,50 @@
+"Roll on this table at the start of each of your turns for the duration of your rage, ignoring this result on subsequent rolls."
+Shadowy tendrils lash around you. Each creature of your choice that you can see within 30ft of you must succeed on a Con saving throw or take 1d12 necrotic damage. You also gain temporary hit points equal to the damage.
+"A modron chosen and crontrolled by the DM appears in an unoccupied space within 5ft of you, then disappears once your rage ends."
+You cast Fireball as a 3rd level spell centered on yourself.
+You cast Magic Missile as a 5th level spell. Targets are randomly selected.
+"Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow."
+You cast Confusion centered on yourself.
+"For the duration of your rage, you regain 5 hit points at the start of each of your turns."
+"You grow a long beard made of feathers that remains until you  sneeze, at which point the feathers explode out from your face."
+You cast Grease centered on yourself.
+"You teleport up to 30ft to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action."
+Your skin turns a vibrant shade of blue. A Remove Curse spell can end this effect.
+"An intangible spirit, which looks like a flumph or a pixie (your choice), appears within 5ft of one creature of your choice that you can see within 30ft of you. At the end of the current turn, the spirit explodes, and each creature within 5ft of it must succeed on a Dex saving throw or take 1d6 force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action."
+"Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the Light and Thrown properties, with a normal range of 20ft and a long range of 60ft. If the weapon leaves your hand, the weapon reapears in your hand at the end of the current turn."
+"You teleport up to 60ft to an unoccupied space in a random direction. Roll a d10 to determine the direction, and a d6 for the distance, multiplying the outcome of the d6 by 10 for the number of feet. d10 1-9 corrodinates starting at North, with 10 being Up."
+"You are transported tothe Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied."
+"Whenever a creature hits you with an attack roll before your rage ends, that creature takes 1d6 force damage, as magic lashes out in retribution."
+"Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older."
+1d6 flumphs controlled by the DM appears in an unoccupied space within 60ft of you and are frieghtened of you. They vanish after your rage ends.
+You regain 2d10 hit points.
+"You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts."
+"Until your rage ends, you are surrounded by multicoloured protective light; you gain a +1 bonus to AC, and while within 10ft of you, your allies gain the same bonus."
+You cast Levitate on yourself.
+"A unicorn controlled by the DM appears in a space within 5ft of you, and disappears when your rage ends."
+"You can't speak, and whenever you try, pink bubbles float out of your month. This effect ends when you finish a long rest."
+"A spectral shield hovers near you until your rage ends, granting you a +2 bonus to AC and immunity to Magic Missile."
+You are immuned to being intoxicated by alcohols for the next 5d6 days.
+"Your body gets covered in a soft, downy fur that sheds within 24hrs."
+"For the next minute after your rage ends, any flammable objects you touch that isn't being worn or carried by another creature bursts into flames."
+"Flowers and vines temporarily grow around you; until your rage ends, the ground within 15ft of you is difficult terrain for your enemies."
+"Until you finish a long rest, you must shout when you speak."
+You cast Fog Cloud centered on yourself.
+Up to three creatures you choose within 30ft of you take 4d10 lightning damage.
+You are frightened by the nearest creature until the end of your next turn.
+Each creature within 30ft of you becomes invisible while your rage lasts. The invisibility ends on a creature when it attacks or casts a spell.
+You gain resistance to all damage until your rage ends.
+A random creature within 60ft of you becomes piosoned for 1d4 hours.
+You glow with bright light in a 30ft radius for the duration of your rage. Any creature that ends its turn within 5ft of you is blinded until the end of its next turn.
+"You cast Polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration."
+Illusory butterflies and flower petals flutter in the air within 10ft of you for the duration of your rage.
+You can take one addition action immediately.
+Each creature within 30ft of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.
+"You cast Mirror Image,"
+You cast Fly on a random creature within 60ft of you.
+"A bolt of light shoots from your chest. Another creature of your choice that you can see within 30ft of you must succeed on a Con saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action."
+"If you die within the duration of your rage, you immediately come back to life as if by the Reincarnate spell."
+Your size increases by one size category for the duration of your rage.
+You and all creatures within 30ft of you gain vulnerability to piercing damage for the duration of your rage.
+"You are surrounded by faint, ethereal music for the duration of your rage."
+You regain all expended rages.
