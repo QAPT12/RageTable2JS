@@ -11,3 +11,12 @@ body{
     max-width: 750px;
     margin:auto;
 }
+
+.buttonsTable{
+    max-width:750px;
+    margin:auto;
+}
+
+.buttonsTable td{
+    text-align:left;
+}

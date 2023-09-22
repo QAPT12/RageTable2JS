@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     var ragearray = [];
     
-    document.getElementById('loadtext').addEventListener('click', function() {
+    document.getElementById('inputfile').addEventListener('change', function() {
         var filereader = new FileReader();
         
         filereader.onload = function() {
