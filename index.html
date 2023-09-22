@@ -15,8 +15,6 @@
 
     <body>
         <main>
-
-            
             <table class="table table-secondary align-middle rageEffectTable">
                 <tr>
                     <td style="text-align:center; margin:auto; height:300px; width:500px">
@@ -33,7 +31,12 @@
                         <button style="width:120px; height:80px;" class="btn btn-danger" id="ragebutton"><i class="fa-solid fa-4x fa-hand-fist"></i></button>
                     </td>
                     <td>
-                        <input id="inputfile" name="inputfile" type="file" accept=".txt">
+                        <input id="inputfile" style="max-width:300px;" class="form-control" name="inputfile" type="file" accept=".txt">
+                    </td>
+                </tr>
+                <tr>
+                    <td id="result">
+                        <p>Select a file to load.</p>
                     </td>
                 </tr>
             </table>
